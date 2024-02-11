@@ -9,3 +9,6 @@
 $ git init
 Initialize your repository local in your HEAD folder
 ```
+- [x] List syntax is required
+- [x] Learn web develoment
+- [ ] Learn NodeJS
